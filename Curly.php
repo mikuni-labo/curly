@@ -12,7 +12,7 @@ namespace App\Lib\Api;
  * @link    https://github.com/mikuni-labo
  * @since   Sun, 16 Apr 2017 08:16:01 +0900
  */
-class Curl
+class Curly
 {
     /** @var Curl */
     private $ch;
