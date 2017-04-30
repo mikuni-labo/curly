@@ -1,0 +1,33 @@
+{
+    "name": "mikuni-labo/curly",
+    "description": "This library is Manipulate the Curl library for PHP.",
+    "keywords": ["php", "api", "curl"],
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/mikuni-labo/curly",
+    "authors": [
+      {
+        "name": "Kuniyasu Wada",
+        "email": "mikuni_labo@icloud.com",
+        "homepage": "https://github.com/mikuni-labo",
+        "role" : "Developer"
+      }
+    ],
+    "support": {
+        "issues": "https://github.com/mikuni-labo/curly/issues"
+    },
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "MikuniLabo\\Curly\\": "src"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
