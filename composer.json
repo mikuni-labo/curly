@@ -27,8 +27,8 @@
         "phpunit/phpunit": "~4.0"
     },
     "autoload": {
-        "psr-4": {
-            "MikuniLabo\\Curly\\": "src"
+        "psr-0": {
+            "MikuniLabo\\Curly\\": "src/"
         }
     },
     "config": {

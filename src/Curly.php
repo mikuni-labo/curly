@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Lib\Api;
+namespace MikuniLabo\Curly;
 
 /**
  * Curl Client
