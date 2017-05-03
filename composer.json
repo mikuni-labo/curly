@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MikuniLabo\\Curly\\": "src/MikuniLabo/Curly/"
+            "MikuniLabo\\Curly\\": "src/"
         }
     },
     "config": {
