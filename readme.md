@@ -18,7 +18,7 @@ $ composer require mikuni-labo/curly
 ```json
 {
     "require": {
-        "mikuni-labo/curly": "1.0.0"
+        "mikuni-labo/curly": "^1.0.0"
     }
 }
 ```
